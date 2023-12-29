@@ -1,2 +1,2 @@
-# M-Chip-Serial-Generator
-Used for adding serial number to fake an Apple ARM64 chip.
+# ARMSMBIOS
+Used for adding SMBIOS, ROM, and serial numbers to Non-Apple ARM64 CPUs, GPUs and computers.
