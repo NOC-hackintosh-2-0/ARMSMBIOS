@@ -40,19 +40,19 @@ def generate_serial_with_model_and_smbios(chip, model, mac_model, smbios):
 
 def main():
     base_serials = {
-        'M1': {
+        'M1-Family': {
             'M1': ['M1BASE1111', 'M1BASE2222', 'M1BASE3333', 'M1BASE4444'],
             'M1 Pro': ['M1PRO1111', 'M1PRO2222', 'M1PRO3333', 'M1PRO4444'],
             'M1 Max': ['M1MAX1111', 'M1MAX2222', 'M1MAX3333', 'M1MAX4444'],
             'M1 Ultra': ['M1ULTRA1111', 'M1ULTRA2222', 'M1ULTRA3333', 'M1ULTRA4444']
         },
-        'M2': {
+        'M2-Family': {
             'M2': ['M2BASE1111', 'M2BASE2222', 'M2BASE3333', 'M2BASE4444'],
             'M2 Pro': ['M2PRO1111', 'M2PRO2222', 'M2PRO3333', 'M2PRO4444'],
             'M2 Max': ['M2MAX1111', 'M2MAX2222', 'M2MAX3333', 'M2MAX4444'],
             'M2 Ultra': ['M2ULTRA1111', 'M2ULTRA2222', 'M2ULTRA3333', 'M2ULTRA4444']
         },
-        'M3': {
+        'M3-Family': {
             'M3': ['M3BASE1111', 'M3BASE2222', 'M3BASE3333', 'M3BASE4444'],
             'M3 Pro': ['M3PRO1111', 'M3PRO2222', 'M3PRO3333', 'M3PRO4444'],
             'M3 Max': ['M3MAX1111', 'M3MAX2222', 'M3MAX3333', 'M3MAX4444'],
