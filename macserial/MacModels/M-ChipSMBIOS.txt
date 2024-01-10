@@ -1,0 +1,15 @@
+SMBIOS:
+M1: MacBookPro17,1; MacBookAir10,1; iMac21,2; iMac21,1; Macmini9,1; 
+M1 Pro: MacBookPro18,1; MacBookPro18,3;
+M1 Max: MacBookPro18,2; MacBookPro18,4; Mac13,1(MacStudio); Mac13,2 (MacStudio)
+M1 Ultra: Mac13,2(MacStudio)
+
+M2: Mac14,7(MacBookPro); Mac14,2(MacBookAir); Mac14,15(MacBookAir); Mac14,3(MacMini); 
+M2 Pro: Mac14,10(MacBookPro); Mac14,9(MacBookPro); Mac14,12(MacMini); Mac14,12(MacMini); 
+M2 Max: Mac14,6(MacBookPro); Mac14,5(MacBookPro); Mac14,13/14,14 (MacStudio)
+M2 Ultra: Mac14,8(MacPro)
+
+M3: Mac15,3(MacBookPro); Mac15,4(iMac); Mac15,5(iMac)
+M3 Pro: Mac15,7(MacBookPro); Mac15,6(MacBookPro); 
+M3 Max: Mac15,9/Mac15,11(MacBookPro); Mac15,8/Mac15,10(MacBookPro); 
+M3 Ultra:
